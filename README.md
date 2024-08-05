@@ -1,6 +1,6 @@
 # The Ole' Ball and Chain: A Society Burdened by Moral Grandstanding
 
-In the past few years we have seen a drastic increase in the number of books being challenged and/or banned across the United States. According to the American Library Association (ALA), the number of titles targeted for censorship in 2023 rose an astounding 65% from the number of titles targeted in 2022. This dramatic increase got me thinking. What could be causing this surge in book censorship efforts? What types of books are being targeted? Does attempting to censor or ban a book make it more appealing to readers?
+In the past few years, we have seen a drastic increase in the number of books being challenged and/or banned across the United States. According to the American Library Association (ALA), the number of titles targeted for censorship in 2023 rose an astounding 65% from the number of titles targeted in 2022. This dramatic increase got me thinking. What could be causing this surge in book censorship efforts? What types of books are being targeted? Does attempting to censor or ban a book make it more appealing to readers?
 
 In this project I'll explore the topic of book censorship in the United States. I'll use data collected from the ALA, EveryLibrary, Goodreads, Publishers Weekly, and the National Center for Education Statistics in my analysis.  
 
@@ -9,7 +9,7 @@ In this project I'll explore the topic of book censorship in the United States. 
 
 First, you need to download the `book_censorship` GitHub repository.
 
-You can close the repository from the command line:
+You can clone the repository from the command line:
 ```
 !git clone https://github.com/grrlofhighart/book_censorship.git
 
