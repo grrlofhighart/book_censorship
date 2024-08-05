@@ -1,0 +1,11 @@
+beautifulsoup4
+selenium
+lxml
+geckodriver-autoinstaller
+webdriver_manager
+pandas
+numpy==1.26.4
+matplotlib
+seaborn
+
+
