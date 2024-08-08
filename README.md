@@ -31,7 +31,7 @@ https://github.com/grrlofhighart/book_censorship/archive/master.zip
 ## Websites mentioned:
 
   1. [American Library Association](https://www.ala.org/bbooks/frequentlychallengedbooks/top10/archive)
-  2. [Goodreads Listopia: ](https://www.goodreads.com/list/show/1360.Best_Banned_Censored_and_Challenged_Books)
+  2. [Goodreads Listopia: Best Banned, Censored, and Challenged Books](https://www.goodreads.com/list/show/1360.Best_Banned_Censored_and_Challenged_Books)
   3. [EveryLibrary](https://www.everylibraryinstitute.org/book_censorship_database_magnusson)
   4. [Publishers Weekly](https://www.publishersweekly.com/pw/nielsen/top100.html)
   5. [National Center for Education Statistics](https://nces.ed.gov/ccd/elsi/)
