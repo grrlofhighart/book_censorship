@@ -9,5 +9,6 @@ matplotlib
 seaborn
 plotly
 folium
+wordcloud
 
 
