@@ -23,9 +23,9 @@ https://github.com/grrlofhighart/book_censorship/archive/master.zip
 ## Project Structure:
 
   1. ALA_Banned_Archive.ipynb - Guide for Collection of Banned Book data from the ALA website.
-  2. Goodreads_List_Scrape.ipynb - Guide for Collection of Book data from the Goodreads website. Includes book title, series, isbn, isbn13, publish date, author, number of pages, genres, number of review, reviews text, number of ratings, average rating, and rating distribution.
+  2. Book_Dataset.ipynb - Guide for Collection of Book data from the Goodreads website. Includes book title, series, isbn, isbn13, publish date, author, number of pages, genres, number of review, reviews text, number of ratings, average rating, and rating distribution.
   3. PW_Scrape.ipynb - Guide for Collection of book data from the Publishers Weekly website.
-  5. Book_Analysis - Walkthrough of my analysis of the data collected.
+  5. Analysis - Walkthrough of my analysis of the data collected.
      
 
 ## Websites mentioned:
